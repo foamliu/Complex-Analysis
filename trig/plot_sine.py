@@ -18,7 +18,7 @@ X, Y = np.meshgrid(x, y)
 Z = f(X, Y)
 ax = plt.axes(projection='3d')
 ax.plot_surface(X, Y, Z, rstride=1, cstride=1,
-                cmap='viridis', edgecolor='none')
+                cmap='hsv', edgecolor='none')
 ax.set_title('surface')
 
 ax.set_xlabel('x')

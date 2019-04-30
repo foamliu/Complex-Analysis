@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-u = np.linspace(-1, 1, 80)
-v = np.linspace(-np.pi, np.pi, 360)
+u = np.linspace(-1, 1, 200)
+v = np.linspace(-np.pi, 3, 360)
 uu, vv = np.meshgrid(u, v)
 z0 = uu + 1j * vv
 z = np.exp(z0)
