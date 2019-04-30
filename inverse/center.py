@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-u = np.linspace(-0.5, 0.5, 80)
-v = np.linspace(-0.5, 0.5, 80)
+u = np.linspace(-1, 1, 200)
+v = np.linspace(-1, 1, 200)
 uu, vv = np.meshgrid(u, v)
 z0 = uu + 1j * vv
 z = 1 / z0
@@ -20,7 +20,7 @@ plt.grid(True)
 
 plt.subplot(1, 2, 2)
 plt.scatter(np.real(z), np.imag(z), c=T, s=10, lw=0, cmap='hsv')
-plt.title('mapped points')
+plt.title('f(z)=1/z')
 plt.xlabel('Re(z)')
 plt.ylabel('Im(z)')
 plt.xlim(-3, 3)

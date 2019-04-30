@@ -20,7 +20,7 @@ plt.grid(True)
 
 plt.subplot(1, 2, 2)
 plt.scatter(np.real(z), np.imag(z), c=T, s=10, lw=0, cmap='hsv')
-plt.title('mapped points')
+plt.title('f(z)=exp(z)')
 plt.xlabel('Re(z)')
 plt.ylabel('Im(z)')
 plt.xlim(-3, 3)
