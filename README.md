@@ -31,3 +31,7 @@
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/inverse.png)
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/inverse_2.png)
+
+## Singularity
+
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/singularity.png)
