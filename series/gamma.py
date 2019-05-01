@@ -19,8 +19,8 @@ f = lambda z: abs(mpmath.gamma(z))
 
 fig = pylab.figure()
 ax = Axes3D(fig)
-X = np.arange(-4, 4, 0.125)
-Y = np.arange(-4, 4, 0.125)
+X = np.arange(-4, 4, 0.0625)
+Y = np.arange(-4, 4, 0.0625)
 X, Y = np.meshgrid(X, Y)
 xn, yn = X.shape
 W = X * 0
