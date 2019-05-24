@@ -44,6 +44,6 @@
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number.png)
 
-## automorphism.png
+## automorphism
 
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/automorphism.png.png)
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/automorphism.png)
