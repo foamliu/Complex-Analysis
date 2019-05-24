@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.image as mpimg
 
-filename = '../images/triangle.jpg'
+filename = '../images/dilireba.jpg'
 img = mpimg.imread(filename)
 img = img/255.
 height, width = img.shape[:2]
