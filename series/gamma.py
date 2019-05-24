@@ -19,8 +19,8 @@ f = lambda z: abs(mpmath.gamma(z))
 
 fig = pylab.figure()
 ax = Axes3D(fig)
-X = np.arange(-5, 5, 0.0625)
-Y = np.arange(-5, 5, 0.0625)
+X = np.arange(-4, 4, 0.0625)
+Y = np.arange(-4, 4, 0.0625)
 X, Y = np.meshgrid(X, Y)
 xn, yn = X.shape
 W = X * 0
@@ -38,7 +38,7 @@ for xk in range(xn):
     # print(xk, xn)
 
 # can comment out one of these
-# ax.plot_surface(X, Y, W, rstride=1, cstride=1, cmap=cm.jet)
-ax.plot_wireframe(X, Y, W, rstride=5, cstride=5)
-
+ax.plot_surface(X, Y, W, rstride=1, cstride=1, cmap=cm.jet)
+# ax.plot_wireframe(X, Y, W, rstride=5, cstride=5)
+pylab.title('gamma function')
 pylab.show()

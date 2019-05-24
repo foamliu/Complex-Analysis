@@ -19,7 +19,7 @@ plt.ylabel('Im(z)')
 
 plt.subplot(1, 2, 2)
 plt.scatter(np.real(z), np.imag(z), c=T, s=10, lw=0, cmap='hsv')
-plt.title('mapped points')
+plt.title('f(z)=log(z)')
 plt.grid(True)
 plt.axis('equal')
 plt.xlabel('Re(z)')
