@@ -2,6 +2,15 @@
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/cover.jpg)
 
+## winding number
+
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number.png)
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_2.png)
+
+## automorphism
+
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/automorphism.png)
+
 ## f(z)=z*(2 + 3j)
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/multiply.png)
@@ -40,10 +49,3 @@
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/gamma.png)
 
-## winding number
-
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number.png)
-
-## automorphism
-
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/automorphism.png)
