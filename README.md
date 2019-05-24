@@ -39,3 +39,11 @@
 ## gamma
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/gamma.png)
+
+## winding number
+
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number.png)
+
+## automorphism.png
+
+![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/automorphism.png.png)
