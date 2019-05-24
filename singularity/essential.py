@@ -1,16 +1,17 @@
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
-from mpl_toolkits import mplot3d
+
 def f(x, y):
-    z = x + y*1j
-    f = np.exp(1/z)
+    z = x + y * 1j
+    f = np.exp(1 / z)
     res = np.array(f, np.int64)
     print(res.shape)
     norm = abs(f)
     norm = np.clip(norm, 0, 3)
     print(norm.shape)
     return norm
+
 
 x = np.linspace(-3.0, 3.0, 100)
 y = np.linspace(-3.0, 3.1, 100)
