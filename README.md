@@ -9,7 +9,7 @@
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_4.png)
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_3.png)
 
-## automorphism
+## Automorphisms in unit disk
 
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/automorphism.png)
 
