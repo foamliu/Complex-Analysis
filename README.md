@@ -3,11 +3,10 @@
 ![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/cover.jpg)
 
 ## winding number
-
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number.png)
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_2.png)
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_4.png)
-![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_3.png)
+|1|2|
+|---|---|
+|![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number.png)|![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_2.png)|
+|![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_4.png)|![image](https://github.com/foamliu/Complex-Analysis/raw/master/images/winding_number_3.png)|
 
 ## Automorphisms in unit disk
 
